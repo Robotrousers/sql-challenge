@@ -5,11 +5,13 @@ Christopher Turner - Wk9Challenge
 
 ### This repo contains the following files:
  
-#### - 
+#### EmployeeSQL\
 
-**EmployeeSQL.sql**: The sql database file containing code.
+ - `EmployeeSQL.sql` The sql database file containing code.
+ - `ERD-Screenshot.png` screenshot of ERD.
+ - `EmployeeERD.pgerd` The PostgreSQL ERD file.
 
-**data**: Directory containing data files.
+EmployeeSQL\data\
 
  - `departments.csv`
  - `dept_emp.csv`
@@ -18,13 +20,12 @@ Christopher Turner - Wk9Challenge
  - `salaries.csv`
  - `titles.csv`
 
-#### -README
-
-**README.md**: the current file. Provides an overview of the project structure and its contents.
+README.md: Provides an overview of the project structure and its contents.
  <br> 
 ___________________________________________________
 
 
 
-#### Sources
+#### Cited Sources
+    BETWEEN code - https://stackoverflow.com/questions/1630239/sql-between-vs-and
 
